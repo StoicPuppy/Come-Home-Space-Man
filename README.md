@@ -14,4 +14,4 @@ The goal of the game is to collect fruits and make it home save and sound.
 ![image](https://user-images.githubusercontent.com/97700556/222484392-09b110af-e423-4542-b176-54ccd76843fe.png)
 
 
-![image] https://media.giphy.com/media/34k7nS3yPPBgU9JVtu/giphy.gif
+![image](https://media.giphy.com/media/34k7nS3yPPBgU9JVtu/giphy.gif)
