@@ -16,5 +16,5 @@ The goal of the game is to collect fruits and make it home save and sound.
 
 ![image](https://media.giphy.com/media/34k7nS3yPPBgU9JVtu/giphy.gif) 
 
-<img src="https://media.giphy.com/media/34k7nS3yPPBgU9JVtu/giphy.gif" height="80%" width="80%" alt="Combat System"/>
+<img src="https://media.giphy.com/media/34k7nS3yPPBgU9JVtu/giphy.gif" height="100%" width="100%" alt="Combat System"/>
 </br>
