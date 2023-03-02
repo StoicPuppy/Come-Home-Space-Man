@@ -10,23 +10,21 @@ The goal of the game is to collect fruits and make it home save and sound.
 - Includes 2 different levels to test the players skill.
 - Keeps track of the players lives. If they take too much damage, they will be forced to restart the level.
 
+----------------------------------------------------------------------------------------------------------------
 
 <img src="https://user-images.githubusercontent.com/97700556/222484392-09b110af-e423-4542-b176-54ccd76843fe.png" height="100%" width="100%" alt="Spike"/>
 </br>
 
-The Player has to avoid landing on the spikes. When they land on a spike, the player gets knocked away and loses a heart.
+  The Player has to avoid landing on the spikes. When they land on a spike, the player gets knocked away and loses a heart.
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2NkZmFhNTYwYjQ0ZmNiOGNiOWI2NjVkNGJjZDU3ZjRmZTk0OGYzMyZjdD1n/9o6WXkFQN8yVcRMJGv/giphy.gif" height="100%" width="100%" alt="Fruit Collect"/>
 </br>
 
 
-The player has to collect fruit if they want to advance to the next level/
+  The player has to collect fruit if they want to advance to the next level/
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODZlMGU4MmVkNzg4MjZkNzY4YzMzMWRjMTY0NjZjNjJiMjRjY2U2MCZjdD1n/BA5ospeYHTIeol7TZF/giphy.gif" height="100%" width="100%" alt="Fruit Collect"/>
 </br>
-
-
-
 
 <img src="https://media.giphy.com/media/34k7nS3yPPBgU9JVtu/giphy.gif" height="100%" width="100%" alt="Picture"/>
 </br>
