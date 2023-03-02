@@ -23,3 +23,8 @@ The player has to collect fruit if they want to advance to the next level/
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODZlMGU4MmVkNzg4MjZkNzY4YzMzMWRjMTY0NjZjNjJiMjRjY2U2MCZjdD1n/BA5ospeYHTIeol7TZF/giphy.gif" height="100%" width="100%" alt="Fruit Collect"/>
 </br>
+
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2NkZmFhNTYwYjQ0ZmNiOGNiOWI2NjVkNGJjZDU3ZjRmZTk0OGYzMyZjdD1n/9o6WXkFQN8yVcRMJGv/giphy.gif" height="100%" width="100%" alt="Fruit Collect"/>
+</br>
+
