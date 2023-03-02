@@ -1,2 +1,11 @@
 # Come-Home-Space-Man
-Solo project. Simple 2D platforming game made in Unity 
+
+Come Home Space Man is a small project I worked on when first Unity Engine.
+The goal of the game is to collect fruits and make it home save and sound.
+
+# Key features
+
+- Dangerous Spikes that damage and knockback the player.
+- Game keeps track of the fruits you collect and verifies if you have enough to complete the level.
+- Includes 2 different levels to test the players skill.
+- Keeps track of the players lives. If they take too much damage, they will be forced to restart the level.
